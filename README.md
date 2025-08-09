@@ -9,6 +9,6 @@ It lets me quickly replicate my Neovim environment on any machine.
 
 ### One-liner
 ```bash
-git clone https://github.com/NvChad/NvChad.git ~/.config/nvim --depth 1 \
+git clone https://github.com/NvChad/starter ~/.config/nvim \
 && git clone git@github.com:matklemmen/nvcad-custom-setup.git ~/.config/nvim/lua/custom \
 && nvim
